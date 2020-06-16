@@ -1,0 +1,270 @@
+Dec 27, 2019 10:28:07 AM com.hexmeet.chat.admin.ChatAdminClient messageLoop
+INFO: messageLoop started 127.0.0.1 6061
+Dec 27, 2019 10:28:07 AM com.hexmeet.chat.admin.ChatAdminClient sendHi
+INFO: sending msg hi 1
+Dec 27, 2019 10:28:08 AM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 1 201
+Dec 27, 2019 10:28:08 AM com.hexmeet.chat.admin.ChatHiMsgResponseHandler onSucess
+INFO: hi okay
+Dec 27, 2019 10:28:08 AM com.hexmeet.chat.admin.ChatAdminClient login
+INFO: sending msg login 2
+Dec 27, 2019 10:28:08 AM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 2 200
+Dec 27, 2019 10:28:08 AM com.hexmeet.chat.admin.ChatLoginMsgResponseHandler onSucess
+INFO: login is oky
+Dec 27, 2019 10:28:08 AM com.hexmeet.chat.admin.ChatAdminEventQueue run
+INFO: notify event start type LOGIN_SUCCESS
+Dec 27, 2019 10:28:08 AM com.hexmeet.chat.admin.ChatAdminEventQueue run
+INFO: notify event end type LOGIN_SUCCESS
+Dec 27, 2019 10:28:13 AM com.hexmeet.chat.admin.ChatAdminClient heatBeat
+INFO: sending msg heartbeat 3
+Dec 27, 2019 10:28:13 AM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 3 201
+Dec 27, 2019 10:28:18 AM com.hexmeet.chat.admin.ChatAdminClient heatBeat
+INFO: sending msg heartbeat 4
+Dec 27, 2019 10:28:18 AM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 4 201
+Dec 27, 2019 10:28:23 AM com.hexmeet.chat.admin.ChatAdminClient heatBeat
+INFO: sending msg heartbeat 5
+Dec 27, 2019 10:28:23 AM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 5 201
+Dec 27, 2019 10:28:28 AM com.hexmeet.chat.admin.ChatAdminClient heatBeat
+INFO: sending msg heartbeat 6
+Dec 27, 2019 10:28:28 AM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 6 201
+Dec 27, 2019 10:28:33 AM com.hexmeet.chat.admin.ChatAdminClient heatBeat
+INFO: sending msg heartbeat 7
+Dec 27, 2019 10:28:33 AM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 7 201
+Dec 27, 2019 10:28:38 AM com.hexmeet.chat.admin.ChatAdminClient heatBeat
+INFO: sending msg heartbeat 8
+Dec 27, 2019 10:28:38 AM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 8 201
+Dec 27, 2019 10:29:41 AM com.hexmeet.chat.admin.ChatAdminClient messageLoop
+INFO: messageLoop started 127.0.0.1 6061
+Dec 27, 2019 10:29:41 AM com.hexmeet.chat.admin.ChatAdminClient sendHi
+INFO: sending msg hi 1
+Dec 27, 2019 10:29:42 AM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 1 201
+Dec 27, 2019 10:29:42 AM com.hexmeet.chat.admin.ChatHiMsgResponseHandler onSucess
+INFO: hi okay
+Dec 27, 2019 10:29:42 AM com.hexmeet.chat.admin.ChatAdminClient login
+INFO: sending msg login 2
+Dec 27, 2019 10:29:42 AM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 2 200
+Dec 27, 2019 10:29:42 AM com.hexmeet.chat.admin.ChatLoginMsgResponseHandler onSucess
+INFO: login is oky
+Dec 27, 2019 10:29:42 AM com.hexmeet.chat.admin.ChatAdminEventQueue run
+INFO: notify event start type LOGIN_SUCCESS
+Dec 27, 2019 10:29:42 AM com.hexmeet.chat.admin.ChatAdminEventQueue run
+INFO: notify event end type LOGIN_SUCCESS
+Dec 27, 2019 5:31:26 PM com.hexmeet.chat.admin.ChatAdminClient messageLoop
+INFO: messageLoop started 127.0.0.1 6061
+Dec 27, 2019 5:31:26 PM com.hexmeet.chat.admin.ChatAdminClient sendHi
+INFO: sending msg hi 1
+Dec 27, 2019 5:31:26 PM com.hexmeet.chat.admin.ChatAdminClient$1 onError
+WARNING: OnError: UNAVAILABLE
+Dec 27, 2019 5:31:26 PM com.hexmeet.chat.admin.ChatHiMsgResponseHandler onFailure
+INFO: hi failure code 503, reject
+Dec 27, 2019 5:31:26 PM com.hexmeet.chat.admin.ChatAdminEventQueue run
+INFO: notify event start type HI_FAILURE
+Dec 27, 2019 5:31:26 PM com.hexmeet.chat.admin.ChatAdminEventQueue run
+INFO: notify event end type HI_FAILURE
+Dec 27, 2019 5:31:26 PM com.hexmeet.chat.admin.ChatAdminEventQueue run
+INFO: notify event start type NETWORK_FAILURE
+Dec 27, 2019 5:31:26 PM com.hexmeet.chat.admin.ChatAdminEventQueue run
+INFO: notify event end type NETWORK_FAILURE
+Dec 30, 2019 10:01:22 AM com.hexmeet.chat.admin.ChatAdminClient messageLoop
+INFO: messageLoop started 127.0.0.1 6061
+Dec 30, 2019 10:01:22 AM com.hexmeet.chat.admin.ChatAdminClient sendHi
+INFO: sending msg hi 1
+Dec 30, 2019 10:01:22 AM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 1 201
+Dec 30, 2019 10:01:22 AM com.hexmeet.chat.admin.ChatHiMsgResponseHandler onSucess
+INFO: hi okay
+Dec 30, 2019 10:01:22 AM com.hexmeet.chat.admin.ChatAdminClient login
+INFO: sending msg login 2
+Dec 30, 2019 10:01:22 AM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 2 200
+Dec 30, 2019 10:01:22 AM com.hexmeet.chat.admin.ChatLoginMsgResponseHandler onSucess
+INFO: login is oky
+Dec 30, 2019 10:01:22 AM com.hexmeet.chat.admin.ChatAdminEventQueue run
+INFO: notify event start type LOGIN_SUCCESS
+Dec 30, 2019 10:01:22 AM com.hexmeet.chat.admin.ChatAdminEventQueue run
+INFO: notify event end type LOGIN_SUCCESS
+Dec 30, 2019 10:01:27 AM com.hexmeet.chat.admin.ChatAdminClient heatBeat
+INFO: sending msg heartbeat 3
+Dec 30, 2019 10:01:27 AM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 3 201
+Dec 30, 2019 10:01:32 AM com.hexmeet.chat.admin.ChatAdminClient heatBeat
+INFO: sending msg heartbeat 4
+Dec 30, 2019 10:01:32 AM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 4 201
+Jan 06, 2020 2:33:21 PM com.hexmeet.chat.admin.ChatAdminClient messageLoop
+INFO: messageLoop started 127.0.0.1 6061
+Jan 06, 2020 2:33:21 PM com.hexmeet.chat.admin.ChatAdminClient sendHi
+INFO: sending msg hi 1
+Jan 06, 2020 2:33:21 PM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 1 201
+Jan 06, 2020 2:33:21 PM com.hexmeet.chat.admin.ChatHiMsgResponseHandler onSucess
+INFO: hi okay
+Jan 06, 2020 2:33:21 PM com.hexmeet.chat.admin.ChatAdminClient login
+INFO: sending msg login 2
+Jan 06, 2020 2:33:22 PM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 2 200
+Jan 06, 2020 2:33:22 PM com.hexmeet.chat.admin.ChatLoginMsgResponseHandler onSucess
+INFO: login is oky
+Jan 06, 2020 2:33:25 PM com.hexmeet.chat.admin.ChatAdminEventQueue run
+INFO: notify event start type LOGIN_SUCCESS
+Jan 06, 2020 2:33:25 PM com.hexmeet.chat.admin.ChatAdminEventQueue run
+INFO: notify event end type LOGIN_SUCCESS
+Jan 06, 2020 2:33:26 PM com.hexmeet.chat.admin.ChatAdminClient heatBeat
+INFO: sending msg heartbeat 3
+Jan 06, 2020 2:33:26 PM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 3 201
+Jan 06, 2020 2:33:31 PM com.hexmeet.chat.admin.ChatAdminClient heatBeat
+INFO: sending msg heartbeat 4
+Jan 06, 2020 2:33:31 PM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 4 201
+Jan 08, 2020 9:52:43 AM com.hexmeet.chat.admin.ChatAdminClient messageLoop
+INFO: messageLoop started 127.0.0.1 6061
+Jan 08, 2020 9:52:43 AM com.hexmeet.chat.admin.ChatAdminClient sendHi
+INFO: sending msg hi 1
+Jan 08, 2020 9:52:43 AM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 1 201
+Jan 08, 2020 9:52:43 AM com.hexmeet.chat.admin.ChatHiMsgResponseHandler onSucess
+INFO: hi okay
+Jan 08, 2020 9:52:43 AM com.hexmeet.chat.admin.ChatAdminClient login
+INFO: sending msg login 2
+Jan 08, 2020 9:52:43 AM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 2 200
+Jan 08, 2020 9:52:43 AM com.hexmeet.chat.admin.ChatLoginMsgResponseHandler onSucess
+INFO: login is oky
+Jan 08, 2020 9:52:43 AM com.hexmeet.chat.admin.ChatAdminEventQueue run
+INFO: notify event start type LOGIN_SUCCESS
+Jan 08, 2020 9:52:43 AM com.hexmeet.chat.admin.ChatAdminEventQueue run
+INFO: notify event end type LOGIN_SUCCESS
+Jan 08, 2020 9:52:48 AM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 3 201
+Jan 08, 2020 9:52:53 AM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 4 201
+Jan 08, 2020 9:52:58 AM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 5 201
+Jan 08, 2020 9:53:03 AM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 6 201
+Jan 08, 2020 9:53:08 AM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 7 201
+Jun 16, 2020 2:37:56 PM com.hexmeet.chat.admin.ChatAdminClient messageLoop
+INFO: messageLoop started 127.0.0.1 6061
+Jun 16, 2020 2:37:56 PM com.hexmeet.chat.admin.ChatAdminClient sendHi
+INFO: sending msg hi 1
+Jun 16, 2020 2:37:57 PM com.hexmeet.chat.admin.ChatAdminClient$1 onError
+WARNING: OnError: UNAVAILABLE
+Jun 16, 2020 2:37:57 PM com.hexmeet.chat.admin.ChatHiMsgResponseHandler onFailure
+INFO: hi failure code 503, reject
+Jun 16, 2020 2:37:57 PM com.hexmeet.chat.admin.ChatAdminEventQueue run
+INFO: notify event start type HI_FAILURE
+Jun 16, 2020 2:37:57 PM com.hexmeet.chat.admin.ChatAdminEventQueue run
+INFO: notify event end type HI_FAILURE
+Jun 16, 2020 2:37:57 PM com.hexmeet.chat.admin.ChatAdminEventQueue run
+INFO: notify event start type NETWORK_FAILURE
+Jun 16, 2020 2:37:57 PM com.hexmeet.chat.admin.ChatAdminEventQueue run
+INFO: notify event end type NETWORK_FAILURE
+Jun 16, 2020 2:41:18 PM com.hexmeet.chat.admin.ChatAdminClient messageLoop
+INFO: messageLoop started 127.0.0.1 6061
+Jun 16, 2020 2:41:18 PM com.hexmeet.chat.admin.ChatAdminClient sendHi
+INFO: sending msg hi 1
+Jun 16, 2020 2:41:18 PM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 1 201
+Jun 16, 2020 2:41:18 PM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: 201
+Jun 16, 2020 2:41:18 PM com.hexmeet.chat.admin.ChatHiMsgResponseHandler onSucess
+INFO: hi okay
+Jun 16, 2020 2:41:18 PM com.hexmeet.chat.admin.ChatAdminClient login
+INFO: sending msg login 2
+Jun 16, 2020 2:41:18 PM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 2 200
+Jun 16, 2020 2:41:18 PM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: 200
+Jun 16, 2020 2:41:18 PM com.hexmeet.chat.admin.ChatLoginMsgResponseHandler onSucess
+INFO: login is oky
+Jun 16, 2020 2:41:18 PM com.hexmeet.chat.admin.ChatAdminEventQueue run
+INFO: notify event start type LOGIN_SUCCESS
+Jun 16, 2020 2:41:18 PM com.hexmeet.chat.admin.ChatAdminEventQueue run
+INFO: notify event end type LOGIN_SUCCESS
+Jun 16, 2020 2:49:24 PM com.hexmeet.chat.admin.ChatAdminClient messageLoop
+INFO: messageLoop started 127.0.0.1 6061
+Jun 16, 2020 2:49:24 PM com.hexmeet.chat.admin.ChatAdminClient sendHi
+INFO: sending msg hi 1
+Jun 16, 2020 2:49:24 PM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 1 201
+Jun 16, 2020 2:49:24 PM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: 201
+Jun 16, 2020 2:49:24 PM com.hexmeet.chat.admin.ChatHiMsgResponseHandler onSucess
+INFO: hi okay
+Jun 16, 2020 2:49:24 PM com.hexmeet.chat.admin.ChatAdminClient login
+INFO: sending msg login 2
+Jun 16, 2020 2:49:25 PM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 2 200
+Jun 16, 2020 2:49:25 PM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: 200
+Jun 16, 2020 2:49:25 PM com.hexmeet.chat.admin.ChatLoginMsgResponseHandler onSucess
+INFO: login is oky
+Jun 16, 2020 2:49:25 PM com.hexmeet.chat.admin.ChatAdminEventQueue run
+INFO: notify event start type LOGIN_SUCCESS
+Jun 16, 2020 2:49:25 PM com.hexmeet.chat.admin.ChatAdminEventQueue run
+INFO: notify event end type LOGIN_SUCCESS
+Jun 16, 2020 2:49:29 PM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 3 201
+Jun 16, 2020 2:49:34 PM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 4 201
+Jun 16, 2020 2:49:39 PM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 5 201
+Jun 16, 2020 2:49:44 PM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 6 201
+Jun 16, 2020 2:49:49 PM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 7 201
+Jun 16, 2020 2:49:54 PM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 8 201
+Jun 16, 2020 2:49:59 PM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 9 201
+Jun 16, 2020 2:50:04 PM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 10 201
+Jun 16, 2020 2:51:15 PM com.hexmeet.chat.admin.ChatAdminClient messageLoop
+INFO: messageLoop started 127.0.0.1 6061
+Jun 16, 2020 2:51:15 PM com.hexmeet.chat.admin.ChatAdminClient sendHi
+INFO: sending msg hi 1
+Jun 16, 2020 2:51:15 PM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 1 201
+Jun 16, 2020 2:51:15 PM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: 201
+Jun 16, 2020 2:51:15 PM com.hexmeet.chat.admin.ChatHiMsgResponseHandler onSucess
+INFO: hi okay
+Jun 16, 2020 2:51:15 PM com.hexmeet.chat.admin.ChatAdminClient login
+INFO: sending msg login 2
+Jun 16, 2020 2:51:16 PM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 2 200
+Jun 16, 2020 2:51:16 PM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: 200
+Jun 16, 2020 2:51:16 PM com.hexmeet.chat.admin.ChatLoginMsgResponseHandler onSucess
+INFO: login is oky
+Jun 16, 2020 2:51:16 PM com.hexmeet.chat.admin.ChatAdminEventQueue run
+INFO: notify event start type LOGIN_SUCCESS
+Jun 16, 2020 2:51:16 PM com.hexmeet.chat.admin.ChatAdminClient createChatGroup
+INFO: createChatGroup 3
+Jun 16, 2020 2:51:16 PM com.hexmeet.chat.admin.ChatAdminClient createChatGroup
+INFO: createChatGroup futrues id 3
+Jun 16, 2020 2:51:16 PM com.hexmeet.chat.admin.ChatAdminEventQueue run
+INFO: notify event end type LOGIN_SUCCESS
+Jun 16, 2020 2:51:16 PM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 3 200
+Jun 16, 2020 2:51:16 PM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: 200
+Jun 16, 2020 2:51:16 PM com.hexmeet.chat.admin.ChatAdminCreateGroupMsgResponseHandler onSucess
+INFO: create chat gropu success topic: grpdDKMzfmAomQ msgid: 3
+Jun 16, 2020 2:51:16 PM com.hexmeet.chat.admin.ChatAdminEventQueue run
+INFO: notify event start type ADDGROUP_SUCCESS
+Jun 16, 2020 2:51:16 PM com.hexmeet.chat.admin.ChatAdminEventQueue run
+INFO: notify event end type ADDGROUP_SUCCESS
+Jun 16, 2020 2:51:20 PM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 4 201

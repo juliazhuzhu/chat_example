@@ -1,0 +1,18 @@
+Oct 31, 2019 11:22:40 AM com.hexmeet.chat.admin.ChatAdminClient messageLoop
+INFO: messageLoop started 172.24.0.63 6061
+Oct 31, 2019 11:22:40 AM com.hexmeet.chat.admin.ChatAdminClient sendHi
+INFO: sending msg hi 1
+Oct 31, 2019 11:22:41 AM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 1 201
+Oct 31, 2019 11:22:41 AM com.hexmeet.chat.admin.ChatHiMsgResponseHandler onSucess
+INFO: hi okay
+Oct 31, 2019 11:22:41 AM com.hexmeet.chat.admin.ChatAdminClient login
+INFO: sending msg login 2
+Oct 31, 2019 11:22:41 AM com.hexmeet.chat.admin.ChatAdminClient$1 onNext
+INFO: onNext: CTRL 2 200
+Oct 31, 2019 11:22:41 AM com.hexmeet.chat.admin.ChatLoginMsgResponseHandler onSucess
+INFO: login is oky
+Oct 31, 2019 11:22:41 AM com.hexmeet.chat.admin.ChatAdminEventQueue run
+INFO: notify event start type LOGIN_SUCCESS
+Oct 31, 2019 11:22:41 AM com.hexmeet.chat.admin.ChatAdminEventQueue run
+INFO: notify event end type LOGIN_SUCCESS
