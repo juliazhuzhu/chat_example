@@ -13,7 +13,9 @@ public class ChatAdminSampleEventHandler implements ChatEventNotifier{
 		
 		if (ChatAdminEvent.EVENT_TYPE.LOGIN_SUCCESS == event.getEventType()) {
 			
-			ChatAdminClient.getDefaultInstance().createChatGroup("beluga", "");
+			ChatAdminClient.getDefaultInstance().createChatGroup("beluga","");
+			//ChatAdminClient.getDefaultInstance().delChatGroup("grpkNyXlJU3wS0");
+			//ChatAdminClient.getDefaultInstance().delAnonymousUser("usrsrr2ew");
 		}
 		
 	}
