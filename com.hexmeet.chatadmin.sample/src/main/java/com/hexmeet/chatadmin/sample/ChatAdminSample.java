@@ -14,8 +14,8 @@ public static void main(String[] args) throws InterruptedException {
     	ChatAdminClient admin = ChatAdminClient.getDefaultInstance();
     	admin.setHost("127.0.0.1");
     	admin.setPort(6061);
-    	//admin.setUser("hexmeetim");
-    	//admin.setPassword("2ghlmcl@#$");
+//    	admin.setUser("hexmeetim");
+//    	admin.setPassword("2ghlmcl@#$");
     	admin.setUser("xena");
     	admin.setPassword("xena123");
     	//admin.setLogPath("/Users/zhuyiye/Downloads/MyLogFile.log");
@@ -24,10 +24,14 @@ public static void main(String[] args) throws InterruptedException {
     	admin.setEventNotifier(event_handler);
     	Thread admin_thread = new Thread(admin);
     	admin_thread.start();
+    	//Thread.sleep(200);
     	//admin.login();
     	//admin.stop();
+    	//Thread.sleep(200);
+    	//admin.stop();
     	admin_thread.join();
-        
+    	
+    	
     	System.out.println("app exited...");
    
     }

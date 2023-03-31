@@ -13,10 +13,13 @@ public class ChatAdminSampleEventHandler implements ChatEventNotifier{
 		
 		if (ChatAdminEvent.EVENT_TYPE.LOGIN_SUCCESS == event.getEventType()) {
 			
-			ChatAdminClient.getDefaultInstance().createChatGroup("beluga","");
-			//ChatAdminClient.getDefaultInstance().delChatGroup("grpkNyXlJU3wS0");
+			ChatAdminClient.getDefaultInstance().createChatGroup("beluga","1234");
+			//ChatAdminClient.getDefaultInstance().delChatGroup("grp304Ksej2gvs");
 			//ChatAdminClient.getDefaultInstance().delAnonymousUser("usrsrr2ew");
+		}else if (ChatAdminEvent.EVENT_TYPE.NETWORK_FAILURE == event.getEventType()) {
+			
+			ChatAdminClient.getDefaultInstance().stop();
+			
 		}
-		
 	}
 }
